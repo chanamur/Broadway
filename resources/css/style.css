@@ -3,7 +3,17 @@ body {
     text-align: center;
 }
 
+a {
+  font-size: 18px;
+  color: white;
+}
+
 .image {
     background-image: url("../images/the-flatiron-building.png");
+}
 
+.maintitle {
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
 }
