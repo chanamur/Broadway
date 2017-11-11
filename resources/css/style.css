@@ -31,3 +31,9 @@ a {
 .descr {
   font-size: 14px;
 }
+
+.location {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
